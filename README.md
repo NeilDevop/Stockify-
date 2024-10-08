@@ -117,9 +117,8 @@ Una vez que ambas partes de la aplicación estén en funcionamiento:
 
 - **Frontend**: Next.js (React)
 - **Backend**: Django (Python)
-- **Base de datos**: PostgreSQL / MySQL / SQLite (dependiendo de la configuración)
+- **Base de datos**: PostgreSQL / MySQL / SQLite 
 - **Autenticación y Almacenamiento**: Firebase
-- **Despliegue**: Docker / Kubernetes (opcional), o directamente en plataformas como AWS, GCP, o Heroku.
   
 ## Contribuciones
 
@@ -140,11 +139,3 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 ## Contacto
 
 Si tienes preguntas o necesitas asistencia, no dudes en contactarnos:
-
-- **Project Manager**: [Tu Nombre](mailto:your.email@example.com)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **Website**: [www.stockify.com](http://www.stockify.com)
-
----
-
-Este README proporciona una visión general clara de la arquitectura del proyecto (Next.js para el frontend, Django para el backend, y Firebase para la autenticación/almacenamiento), así como instrucciones detalladas para su configuración e instalación. ¿Te gustaría agregar o modificar alguna sección?
