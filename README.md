@@ -1,5 +1,3 @@
-Con la tecnología específica que estás utilizando (Next.js, Django, Firebase), podemos ajustar el README para que refleje estos detalles más claramente. Aquí te dejo una versión revisada del README:
-
 ---
 
 # Stockify - Inventory Management Software
